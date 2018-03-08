@@ -97,9 +97,9 @@ public final class WidgetUtils {
             }
         }
 
-        FONT_MULI_PLAIN = createFont("fonts/Muli.ttf");
-        FONT_MULI_BOLD = createFont("fonts/Muli-Bold.ttf");
-        FONT_MULI_LIGHT = createFont("fonts/Muli-Light.ttf");
+        FONT_MULI_PLAIN = createFont("fonts/stsong.ttf");
+        FONT_MULI_BOLD = createFont("fonts/simhei.ttf");
+        FONT_MULI_LIGHT = createFont("fonts/stxihei.ttf");
 
         FONT_FONTAWESOME = createFont("fonts/FontAwesome-4.3.0.ttf").deriveFont(14f);
 
